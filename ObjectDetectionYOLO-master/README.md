@@ -46,4 +46,4 @@ An video example can be seen below:
 
 Please feel free to adjust CONF_THRESHOLD and NMS_THRESHOLD constants to suit your needs.
 
-Full tutorial is available at http://dangminhthang.com/computer-vision/object-detection-and-recognition-using-yolo/
+
